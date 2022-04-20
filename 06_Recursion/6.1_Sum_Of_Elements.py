@@ -1,3 +1,5 @@
+# This code receive a list and return the recursive sum of algarims.
+
 def soma_lista(lista):
     if len(lista) == 1:
         return lista[0]
